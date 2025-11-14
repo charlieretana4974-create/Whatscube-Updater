@@ -1,2 +1,2 @@
 1
-https://github.com/charlieretana4974-create/Whatscube-Updater/raw/main/Whatscube%202.5V.zip
+https://raw.githubusercontent.com/charlieretana4974-create/Whatscube-Updater/main/Whatscube%202.5V.zip
