@@ -1,2 +1,2 @@
-version=2.0V
+version=2.6V
 url=https://www.dropbox.com/scl/fi/wjysaxrwrkejy5uj0tdi6/Whatscube-2.0V.zip?rlkey=t42k1qxfi90qdhgt6o68v2kl8&st=u98s5hzk&dl=1
