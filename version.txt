@@ -1,2 +1,2 @@
-version=2.5V
-url=https://raw.githubusercontent.com/charlieretana4974-create/Whatscube-Updater/refs/heads/main/Whatscube%202.5V.zip
+version=2.6V
+url=https://www.dropbox.com/scl/fi/jtkv9enye7btjlz53qaml/Whatscube-2.6V.rar?rlkey=r05qnn5nfyf4ul6f3zrbkdp7a&st=0c932dtv&dl=1
